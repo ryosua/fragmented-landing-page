@@ -176,6 +176,7 @@ i {
     top: 0;
     left: 0;
     z-index: 2;
+    pointer-events: none;
 }
 #text {
     min-height: 100vh;
