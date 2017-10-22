@@ -119,6 +119,11 @@ hr {
     width: 280px;
 }
 
+.form-inline {
+    display: flex;
+    align-items: center;
+}
+
 i {
     margin: 8px;
     color: #090a0b;
