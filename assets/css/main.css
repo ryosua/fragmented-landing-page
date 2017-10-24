@@ -193,3 +193,7 @@ i {
 #text h1 {
     opacity: 0.9;
 }
+
+#mc-embedded-subscribe {
+    margin-top: 20px;
+}
